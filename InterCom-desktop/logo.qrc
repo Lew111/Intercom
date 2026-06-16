@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/logo">
+        <file>intercom.png</file>
+    </qresource>
+</RCC>
